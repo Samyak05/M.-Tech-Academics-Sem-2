@@ -20,8 +20,8 @@ This document contains links to large course materials, textbooks, slide archive
 
 ## 🧪 Laboratory Resources
 
-- 🧪 Database Lab  
-- 🌐 Network Security Lab  
+- 🧪 [Database Lab](05_Lab_work/Lab_Resources.md)
+- 🌐 [Network Security Lab](05_Lab_work/Lab_Resources.md)  
 
 ---
 
