@@ -1,4 +1,8 @@
 # 🎓 M.Tech – Semester 2 Academic Repository
+![Semester](https://img.shields.io/badge/Semester-2-green)
+![Program](https://img.shields.io/badge/M.Tech-CSE-blue)
+![Institute](https://img.shields.io/badge/NIT-Surathkal-red)
+![GitHub stars](https://img.shields.io/github/stars/Samyak05/MTech-Sem02-Academics?style=social)
 
 This repository contains organized academic material, assignments, lab work, structured notes for Semester 2 of my M.Tech in Computer Science at NIT Surathkal.
 
@@ -57,8 +61,9 @@ Each subject directory contains:
 - 📘 Notes
 - 📑 Lecture Slides
 - 📝 Assignments
-- 📄 Previous Year Questions (PYQs)
-- 🧪 Lab Work (where applicable)
+- 🧪 Lab Work
+- 🧠 Important Concepts
+- 📄 Previous Year Question Papers
 
 Large reference books and archived materials are stored externally.  
 🔗 [View External Resources](Resources.md)
@@ -67,7 +72,7 @@ Large reference books and archived materials are stored externally.
 
 ## 🎯 Semester Focus
 
-Semester 2 emphasized:
+Semester 2 focused on:
 
 - Secure and scalable data systems  
 - Network-level threat mitigation  
@@ -84,4 +89,8 @@ National Institute of Technology Surathkal, Karnataka
 
 ---
 
-> “Security is engineered, not assumed.”
+⭐ If you find this repository helpful, please consider giving it a star. Feel free to explore the materials. Happy learning!
+
+---
+
+> *Security is engineered, not assumed.*
